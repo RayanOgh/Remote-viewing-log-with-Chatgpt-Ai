@@ -1,5 +1,7 @@
 # Remote-viewing-log-with-Chatgpt-Ai
 A public log of intuitive remote viewing sessions verified by SHA-256 hash. All entries timestamped and validated using ChatGPT and independent hash verification.
+This experiment — Hash-Verified Remote Viewing — was first designed, demonstrated, and documented by Rayan Reza O’ghabian in May 2025.
+All content, logs, and methods in this repository were publicly shared and time-stamped via GitHub to establish originality and transparency.
 # Remote Viewing Log with ChatGPT Ai
 
 This public log documents a series of remote viewing sessions verified by SHA-256 hashes.  
