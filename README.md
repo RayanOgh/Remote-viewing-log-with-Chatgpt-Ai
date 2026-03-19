@@ -39,3 +39,5 @@ All sessions were conducted double-blind and verified using hash-matching tools 
 - [CyberChef (SHA-256)](https://gchq.github.io/CyberChef)
 - [SHA-256 Generator (Plaintext)](https://passwordsgenerator.net/sha256-hash-generator/)
 - [GitHub Commit History](https://github.com)
+
+These results were generated as part of an early experiment with cryptographic commitment schemes. The commitment protocol ensures the predictions were made before the outcomes, but does not validate the accuracy or methodology of the predictions themselves. Results should not be taken as evidence of anomalous cognition.
